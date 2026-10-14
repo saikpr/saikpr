@@ -14,25 +14,6 @@ By day I lead that work at Amazon Nova, and most of it is internal. This page ho
 
 <br>
 
-### Building now
-
-<p>
-  <a href="https://sainyam.me/#impact"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/nova-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/nova-light.svg">
-    <img src="assets/nova-light.svg" alt="amazon nova · now. Measure, improve, and ship the model. Evaluation harness for 50+ agentic benchmarks, verifier-backed RL data, and model delivery at Bedrock scale." width="100%">
-  </picture></a>
-</p>
-<p>
-  <a href="https://sainyam.me/"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/website-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/website-light.svg">
-    <img src="assets/website-light.svg" alt="sainyam.me · live. A decade of applied AI. Impact, experience and résumé. Built with Hugo, plus llms.txt and JSON-LD for agents and search." width="100%">
-  </picture></a>
-</p>
-
-<br>
-
 ### Open source
 
 **[LiteLLM](https://github.com/BerriAI/litellm/pull/44134)** &nbsp;·&nbsp; Bedrock streaming requests now honor the request timeout instead of waiting up to 600s.
